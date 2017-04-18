@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>icon/bin-3.png</file>
+        <file>icon/browser-2.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/play.png</file>
+    </qresource>
+</RCC>
